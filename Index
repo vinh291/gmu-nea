@@ -59,10 +59,13 @@
           <span class="logo glyphicon glyphicon-chevron-up"></span>
           <span class="logo glyphicon glyphicon-chevron-up"></span>
           <h1>ART WORKS.</h1>
-          <a class="scroll-down btn" href="#about">Button 1</a>
-          <a class="scroll-down btn" href="#about">Button 2</a>
+          <a class="scroll-down btn" href="#services">About</a>
+          <a class="scroll-down btn" href="#work">Work</a>
+          <a class="scroll-down btn" href="#team">Team</a>
+          <a class="scroll-down btn" href="#pricing">Pricing</a>
+          <a class="scroll-down btn" href="#clients">Clients</a>
         
-          <a class="scroll-down" href="#about"><i class="icon-angle-down"></i></a>
+          <a class="scroll-down" href="#services"><i class="icon-angle-down"></i></a>
         </div><!-- /.content -->
       </div>
     </div><!-- /.container -->
@@ -77,37 +80,38 @@
       <div class="fixed-container">
         
         <div class="content services">
-          <h1>Services</h1>
+          <h1>About</h1>
           <div class="row">
             <div class="empty col-md-2 col-sm-3 col-xs-12"></div>
             <div class="col-md-8 col-sm-6 col-xs-12">
-              <h3>We offer services that range from Website Design to Branding. Just check out all of our services below to get a general idea of what we are capable of. We have three people on our team and we will try to accommodate your request. </h3>
+              <h3>About Art Works... </h3>
             </div>
             <div class="empty col-md-2 col-sm-3 col-xs-12"></div>
           </div>
           <div class="row">
             <div class="col-md-3 col-sm-3 col-xs-6">
-              <div class="service-icon">
-                <i class="icon-sitemap" data-toggle="tooltip" title="Professional application planning, including mockups, wireframes, and designs."></i>
-                <span>PLANNING</span>                
+            
+            <div class="service-icon">
+                <i class="icon-sitemap" data-toggle="tooltip" title="Art"></i>
+                <span>Art</span>
               </div>
             </div>
             <div class="col-md-3 col-sm-3 col-xs-6">
               <div class="service-icon">
-                <i class="icon-search" data-toggle="tooltip" title="Clean, Modern and Responsive Web Design."></i>
-                <span>DESIGN</span>                
+                <i class="icon-search" data-toggle="tooltip" title="Grants"></i>
+                <span>Grants</span>
               </div>
             </div>
             <div class="col-md-3 col-sm-3 col-xs-6">
               <div class="service-icon">
-                <i class="icon-sun" data-toggle="tooltip" title="We can help create a consistent media brand including logos, product design, website branding and more."></i>
-                <span>BRANDING</span>                
+                <i class="icon-sun" data-toggle="tooltip" title="Outreach"></i>
+                <span>Outreach</span>
               </div>
             </div>
             <div class="col-md-3 col-sm-3 col-xs-6">
               <div class="service-icon">
-                <i class="icon-umbrella" data-toggle="tooltip" title="Web application security. We can help protect your application from attacks."></i>
-                <span>SECURITY</span>                
+                <i class="icon-umbrella" data-toggle="tooltip" title="Other Shit man...."></i>
+                <span>Other Shit</span>
               </div>
             </div>            
           </div>
@@ -195,13 +199,14 @@
         <div class="content team">
           <h1>Meet the Team</h1>
           <div class="row">
+            
             <div class="col-md-4 col-sm-4 col-xs-12">
-              <h2>Michael Chang</h2>
-              <h3 class="italic">Developer</h3>
+              <h2>Cameron Lensing</h2>
+              <h3 class="italic">Website/Application Development</h3>
               <div class="portrait">
-                <img src="img/portrait2.jpg" alt="Team Portrait">              
+                <img src="img/cam.jpg" alt="Cameron Lensing">
               </div>
-              <p>Hi, I'm Michael Chang. I am a developer who specializes on CSS, HTML and Javascript. I'm excited to work more and learn more about design.</p>
+              <p>Cameron Lensing write here...</p>
               <div class="social-media">
                 <a href="#" data-toggle="tooltip" title="twitter"><i class="icon-twitter"></i></a>
                 <a href="#" data-toggle="tooltip" title="facebook"><i class="icon-facebook"></i></a>
@@ -210,13 +215,14 @@
                 <a href="#" data-toggle="tooltip" title="pinterest"><i class="icon-pinterest"></i></a>
               </div>
             </div>
+            
             <div class="col-md-4 col-sm-4 col-xs-12">
-              <h2>Jane Doe</h2>
-              <h3 class="italic">Founder</h3>
+              <h2>Vinh Le</h2>
+              <h3 class="italic">Website/Application Development</h3>
               <div class="portrait">
-                <img src="img/portrait1.jpg" alt="Team Portrait">              
+                <img src="img/vinh.jpg" alt="Vinh Le">
               </div>
-              <p>I am Jane Doe, a web designer who loves designing and building websites. I founded this company to help bring web design to those who need it.</p>
+              <p>I am Vinh Le, i like men</p>
               <div class="social-media">
                 <a href="#" data-toggle="tooltip" title="twitter"><i class="icon-twitter"></i></a>
                 <a href="#" data-toggle="tooltip" title="facebook"><i class="icon-facebook"></i></a>
@@ -225,13 +231,47 @@
                 <a href="#" data-toggle="tooltip" title="pinterest"><i class="icon-pinterest"></i></a>
               </div>
             </div>
+            
             <div class="col-md-4 col-sm-4 col-xs-12">
-              <h2>Jessica Smith</h2>
-              <h3 class="italic">Graphic Designer</h3>
+            <h2>Drew Kidder</h2>
+            <h3 class="italic">Position Title</h3>
+            <div class="portrait">
+            <img src="img/vinh.jpg" alt="Drew Kidder">
+            </div>
+            <p>Drew Kidder description here...</p>
+            <div class="social-media">
+            <a href="#" data-toggle="tooltip" title="twitter"><i class="icon-twitter"></i></a>
+            <a href="#" data-toggle="tooltip" title="facebook"><i class="icon-facebook"></i></a>
+            <a href="#" data-toggle="tooltip" title="linkedin"><i class="icon-linkedin"></i></a>
+            <a href="#" data-toggle="tooltip" title="github"><i class="icon-github"></i></a>
+            <a href="#" data-toggle="tooltip" title="pinterest"><i class="icon-pinterest"></i></a>
+            </div>
+            </div>
+            
+            <div class="col-md-4 col-sm-4 col-xs-12">
+            <h2>Robert Youmans</h2>
+            <h3 class="italic">Position Title</h3>
+            <div class="portrait">
+            <img src="img/vinh.jpg" alt="Robert Youmans">
+            </div>
+            <p>Robert Youmans description here...</p>
+            <div class="social-media">
+            <a href="#" data-toggle="tooltip" title="twitter"><i class="icon-twitter"></i></a>
+            <a href="#" data-toggle="tooltip" title="facebook"><i class="icon-facebook"></i></a>
+            <a href="#" data-toggle="tooltip" title="linkedin"><i class="icon-linkedin"></i></a>
+            <a href="#" data-toggle="tooltip" title="github"><i class="icon-github"></i></a>
+            <a href="#" data-toggle="tooltip" title="pinterest"><i class="icon-pinterest"></i></a>
+            </div>
+            </div>
+
+            
+            <div class="col-md-4 col-sm-4 col-xs-12">
+              <h2>Christian Gonzalez</h2>
+              <h3 class="italic">Position Title</h3>
               <div class="portrait">
-                <img src="img/portrait3.jpg" alt="Team Portrait">              
+                <img src="img/vinh.jpg" alt="Christian Gonzalez">
               </div>
-              <p>My name is Jessica Smith. I work mainly as a graphic designer, designing beautiful web elements, buttons, backgrounds, and really anything that is needed.</p>
+              <p>Christian Gonzalez description here...</p>
               <div class="social-media">
                 <a href="#" data-toggle="tooltip" title="twitter"><i class="icon-twitter"></i></a>
                 <a href="#" data-toggle="tooltip" title="facebook"><i class="icon-facebook"></i></a>
@@ -401,4 +441,3 @@
     <script src="js/init.js"></script>
   </body>
 </html>
-
