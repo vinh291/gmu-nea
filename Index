@@ -78,13 +78,15 @@
     <div id="services" class="section image">
       <div class="background parallax"></div>
       <div class="fixed-container">
-        
+      <header id="heading">
+      <div class="container text-center">
+    
         <div class="content services">
           <h1>About</h1>
           <div class="row">
             <div class="empty col-md-2 col-sm-3 col-xs-12"></div>
             <div class="col-md-8 col-sm-6 col-xs-12">
-              <h3>About Art Works... </h3>
+              <h3>This is the About section for the website</h3>
             </div>
             <div class="empty col-md-2 col-sm-3 col-xs-12"></div>
           </div>
